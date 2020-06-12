@@ -9,7 +9,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - CINEMA FILMES - [COLOR deeppink]|[/COLOR]</info>
+ - CINEMA FILMES - </info>
 </channel>
 </channels>
 
@@ -17,14 +17,14 @@
 
 <channels>
 <channel>
-<name>SERIES[/COLOR] [COLOR red]|||[/COLOR][COLOR red]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>SERIES</name>
 <thumbnail>https://ia601407.us.archive.org/3/items/fanart_20200612_1926/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/plugados/PLUGADOS/master/S%C3%89RIES</externallink>
 <fanart>https://ia801407.us.archive.org/3/items/fanart_20200612_1926/fanart.jpg</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR] - CINEMA SERIES - [COLOR yellow]|[/COLOR]</info>
+ - CINEMA SERIES - </info>
 </channel>
 </channels>
 
