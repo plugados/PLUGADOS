@@ -1,15 +1,13 @@
-
-
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR red]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR red]LANCAMENTOS[/COLOR] [COLOR red]|||[/COLOR][COLOR red]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>LANCAMENTOS</name>
 <thumbnail>https://ia601407.us.archive.org/3/items/fanart_20200612_1926/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/plugados/PLUGADOS/master/biblioteca</externallink>
 <fanart>https://ia801407.us.archive.org/3/items/fanart_20200612_1926/fanart.jpg</fanart>
 <item>
 
 
-[COLOR yellow]|[/COLOR] - CINEMA FILMES - [COLOR yellow]|[/COLOR]</info>
+- CINEMA FILMES - </info>
 </channel>
 </channels>
 
