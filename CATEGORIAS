@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>FILMES</name>
 <thumbnail>https://ia601504.us.archive.org/22/items/se-ries/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/plugados/PLUGADOS/master/FILMES</externallink>
 <fanart>https://ia801402.us.archive.org/28/items/icon_20200611/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - CINEMA MOVIES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - CINEMA FILMES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -17,14 +17,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/22/items/se-ries/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/plugados/PLUGADOS/master/S%C3%89RIES</externallink>
 <fanart>https://ia801402.us.archive.org/28/items/icon_20200611/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - CINEMA TVSHOW - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - CINEMA SERIES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
